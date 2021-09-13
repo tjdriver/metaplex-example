@@ -1,0 +1,17 @@
+{
+    "name": "Wisconsin NFT #2",
+    "symbol": "",
+    "description": "These NFTs are for testing the candy machine",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "collection": {
+        "name": "Candy Machine Test Sheep #1",
+        "family": "Candy Machine Test Sheep"
+    },
+    "properties": {
+        "creators": [
+                { "address": "3KdKyibfoZ7ewbvqwHNAkVC3jWumpHxJqoX3ubSFfyJp", "share": 100 }
+            ],
+        "files": [{"uri": "image.png","type": "image/png"}]
+        }
+}
