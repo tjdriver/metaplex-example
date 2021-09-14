@@ -1,0 +1,17 @@
+{
+    "name": "The number 9",
+    "symbol": "",
+    "description": "I'm testing the candy machine O.o",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+    "collection": {
+        "name": "Candy Machine Test Number #9",
+        "family": "Candy Machine Test Number"
+    },
+    "properties": {
+        "creators": [
+                { "address": "CK5Bx1TDQqVjgo6yoeqCQYUhdUCGnKHh6TjSmmphK5wz", "share": 100 }
+            ],
+        "files": [{"uri": "image.png","type": "image/png"}]
+        }
+}
